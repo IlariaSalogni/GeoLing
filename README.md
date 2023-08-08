@@ -11,6 +11,4 @@ the model.
 [GeoLingIT](https://sites.google.com/view/geolingit) task data comprises 15K geotagged tweets that exhibit non-standard Italian language use (the content may be fully written in local language varieties or exhibiting code-switching with standard italian), and that have been collected in the corpus [DiatopIt](https://aclanthology.org/2023.vardial-1.19/). The data is annotated with latitude and longitude. Target and output coordinate data were normalized using Min-Max scaling
 
 ## Notebooks
-
-* Reproducing the Analysis and Plots
-``` questo dovrebbe esser codice ```
+* Reproducing the Analysis and Plots: [here](https://github.com/IlariaSalogni/GeoLing/blob/main/GeoLingIt_Evalita23_Salogni.ipynb)
